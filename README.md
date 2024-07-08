@@ -1,5 +1,3 @@
-# NECOMIFY
-
 <div align="center">
   <h1>NECOMIFY</h1>
   <i>We bring the logic, you bring the styles.</i>
